@@ -1,2 +1,2 @@
-# Marketing-budget-optimisation-roi-simulator
-Marketing budget allocation and ROI simulation using Excel to evaluate campaign performance across digital and traditional channels through key marketing KPIs, budget optimisation and data-driven recommendations.
+mba-marketing-analytics-portfolio
+MBA Marketing portfolio showcasing marketing budget optimisation, ROI simulation, FMCG brand benchmarking, competitor analysis and data-driven strategic recommendations.
